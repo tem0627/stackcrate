@@ -27,3 +27,9 @@ The Java beta was tested on Paper 26.2 build 135 and 26.3 build 257 with Java 25
 StackCrate is an independent, unofficial implementation inspired by [StorageBox MOD by scalar001](https://www.curseforge.com/minecraft/mc-mods/storagebox-mod). It is not a port and does not import the original mod's saved data. The plugin was developed with generative AI assistance.
 
 **StackCrate is not an official Minecraft product and is not approved by or affiliated with Mojang or Microsoft.**
+
+## 運営を応援する / Support
+
+作者のコミュニティ運営を応援したい方は、[Ko-fi](https://ko-fi.com/sikugoma)から任意で支援できます。支援の有無でStackCrateのダウンロード・機能・更新は変わりません。
+
+If you'd like to support the maintainer's community, the Ko-fi link above is optional. It does not change access to StackCrate downloads, features, or updates.
